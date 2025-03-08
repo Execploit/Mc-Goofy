@@ -14,18 +14,21 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-     {
-      "identifier": "Exploit",
-       "password": "enteryourcustompass",
+   "lavalink": {
+        "identifier": "GlaceYT",
+        "password": "enteryourcustompass",
         "host": "180.188.226.76",
         "port":  7019,
         "secure": false
-    },
-    {
-      name: "INZEWORLD.COM (DE)",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
+      }
+
+
+Prime Music
+  {
+      name: "XX",
+      password: "enteryourcustompass",
+      host: "180.188.226.76",
+      port:  7019,
       secure: false
     }
   ]
