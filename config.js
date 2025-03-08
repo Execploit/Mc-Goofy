@@ -21,15 +21,12 @@ module.exports = {
         "port":  7019,
         "secure": false
       }
-
-
-Prime Music
   {
-      name: "XX",
-      password: "enteryourcustompass",
-      host: "180.188.226.76",
-      port:  7019,
-      secure: false
+       "identifier": "GlaceYT",
+        "password": "enteryourcustompass",
+        "host": "180.188.226.76",
+        "port":  7019,
+        "secure": false
     }
   ]
 }
